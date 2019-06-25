@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pomodoro-clock-react/static/css/main.65dfefea.chunk.css",
+    "main.js": "/pomodoro-clock-react/static/js/main.82fff07b.chunk.js",
+    "main.js.map": "/pomodoro-clock-react/static/js/main.82fff07b.chunk.js.map",
+    "runtime~main.js": "/pomodoro-clock-react/static/js/runtime~main.0fc23be4.js",
+    "runtime~main.js.map": "/pomodoro-clock-react/static/js/runtime~main.0fc23be4.js.map",
+    "static/js/2.652dea17.chunk.js": "/pomodoro-clock-react/static/js/2.652dea17.chunk.js",
+    "static/js/2.652dea17.chunk.js.map": "/pomodoro-clock-react/static/js/2.652dea17.chunk.js.map",
+    "index.html": "/pomodoro-clock-react/index.html",
+    "precache-manifest.a1cd6930835e2ea71a91714a5cc1d436.js": "/pomodoro-clock-react/precache-manifest.a1cd6930835e2ea71a91714a5cc1d436.js",
+    "service-worker.js": "/pomodoro-clock-react/service-worker.js",
+    "static/css/main.65dfefea.chunk.css.map": "/pomodoro-clock-react/static/css/main.65dfefea.chunk.css.map",
+    "static/media/beep.mp3": "/pomodoro-clock-react/static/media/beep.b5a7b696.mp3"
+  }
+}
